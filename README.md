@@ -7,32 +7,47 @@ Conteúdo em Construção!
 Se você tem algum material que possa agregar, compartilhe conosco!
 
 
-## CLOUD
+## ☁️ CLOUD PROVIDERS
 
 - [Azure - Microsoft](https://github.com/michelbalazs/Guia-Microsoft) - Treinamentos Microsoft Azure
-- [AWS - Amazon](https://github.com/michelbalazs/Guia-AWS) - Treinamentos Amazon Cloud
-- [GCP - Google](https://github.com/michelbalazs/Guia-GCP) - Treinamentos Google Cloud
-- [OCI - Oracle Cloud](https://github.com/michelbalazs/Guia-OCI) - Treinamentos Oracle Cloud
+- ⚠️ EM CONSTRUÇÃO! - [AWS - Amazon](https://github.com/michelbalazs/Guia-AWS) - Treinamentos Amazon Cloud
+- ⚠️ EM CONSTRUÇÃO! - [GCP - Google](https://github.com/michelbalazs/Guia-GCP) - Treinamentos Google Cloud
+- ⚠️ EM CONSTRUÇÃO! - [OCI - Oracle Cloud](https://github.com/michelbalazs/Guia-OCI) - Treinamentos Oracle Cloud
 
-## CONTEÚDOS COMPLEMENTARES
+## ☁️ LANDSCAPE CLOUD NATIVE FOUNDATION
 
-    ### Redes
+- [Link para o Landscape Cloud Services](https://landscape.cncf.io/) 
+> O Projeto Cloud Native Landscape tenta compilar, categorizar e organizar todos os projetos de código aberto e produtos proprietárops que podem beneficiar aplicativos nativos da nuvem.
 
-    ### Linux
+> A "Cloud Native Computing Foundation" ( CNCF ) é um projeto da Linux Foundation que foi criado em 2015 para ajudar no avanço da tecnologia de contêineres e alinhar a indústria de tecnologia em torno de sua evolução.
+Em agosto de 2018, o Google anunciou que estava entregando o controle operacional do Kubernetes à comunidade. Desde a sua criação, o CNCF lançou uma série de subprojetos hospedados.
+Fonte: Wikipedia
 
-    ### Windows Server
+- [Link para o Site Oficial](https://www.cncf.io/)
 
-    ### IaC (Infra as a Code)
+## 🍺 CONTEÚDOS COMPLEMENTARES
 
-    ### DevOps
-
-    ### Kubernets
+   ### Comparativo de Serviços Cloud Pública
+   > Site com tabela comparando as categorias e serviços de recursos das principais clouds, e seus respectivos nomes.  [AWS, Azure, Google Cloud, IBM Cloud, Oracle Cloud, Alibaba Cloud, Huawei Cloud]
+   - [Link para o site da Compare Cloud](https://comparecloud.in/)
     
-    ### Observability
+   >### Redes
 
-## SITES / BLOGS RELACIONAODS
+   >### Linux
 
-## CANAIS NO YOUTUBE COM CONTEÚDO CLOUD
+   >### Windows Server
 
-## LIVROS
+   >### IaC (Infra as a Code)
+
+   >### DevOps
+
+   >### Kubernets
+    
+   >### Observability
+
+## 📂 SITES / BLOGS RELACIONAODS
+
+## 📂 CANAIS NO YOUTUBE COM CONTEÚDO CLOUD
+
+## 📁 LIVROS
 
