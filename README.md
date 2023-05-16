@@ -6,7 +6,6 @@ Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Cl
 Conteúdo em Construção!
 Se você tem algum material que possa agregar, compartilhe conosco!
 
-Neste guia irei consolidar cursos, trilhas de treinamentos entre outros.
 
 ## CLOUD
 
