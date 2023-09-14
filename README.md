@@ -35,6 +35,8 @@ Fonte: Wikipedia
    > Site para gerar documentação automatica e diagramas de arquitetura do ambiente Cloud.
    - [Link para o site Cloudockit](https://www.cloudockit.com/)
 
+   ### FinOps
+
    ### Redes
 
    ### Linux
