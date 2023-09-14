@@ -11,7 +11,7 @@ Se você tem algum material que possa agregar, compartilhe conosco!
 
 - [Azure - Microsoft](https://github.com/michelbalazs/Guia-Microsoft) - Treinamentos Microsoft Azure
 - ⚠️ EM CONSTRUÇÃO! - [AWS - Amazon](https://github.com/michelbalazs/Guia-AWS) - Treinamentos Amazon Cloud
-- ⚠️ EM CONSTRUÇÃO! - [GCP - Google](https://github.com/michelbalazs/Guia-GCP) - Treinamentos Google Cloud
+- [GCP - Google](https://github.com/michelbalazs/Guia-GCP) - Treinamentos Google Cloud
 - ⚠️ EM CONSTRUÇÃO! - [OCI - Oracle Cloud](https://github.com/michelbalazs/Guia-OCI) - Treinamentos Oracle Cloud
 
 ## ☁️ LANDSCAPE CLOUD NATIVE FOUNDATION
