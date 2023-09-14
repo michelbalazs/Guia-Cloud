@@ -47,10 +47,12 @@ Fonte: Wikipedia
 
    ### IaC (Infra as a Code)
    > Site do Terraform com Casos de uso, Tutoriais e uma documentação que abrange diversos cloud providers.
+
    > O que é Terraform? É uma ferramenta de software livre de "infraestrutura como código" criada pela HashiCorp.
    - [Link para o site da HashiCorp - Terraform](https://www.terraform.io/)
 
    > Site do Ansible com Casos de uso, documentação.
+
    > O que é Ansible? É uma ferramenta de TI de código aberto para gerenciar, automatizar, configurar servidores e, implantar aplicativos, a partir de uma localização central..
    - [Link para o site da HashiCorp - Terraform](https://www.ansible.com/)
 
@@ -66,6 +68,7 @@ Fonte: Wikipedia
 
 ## 📁 LIVROS
 
-> DevOps
-> O Projeto Fênix (The Phoenix Project).
-> Manual de DevOps (The DevOps Handbook).
+   ### DevOps
+   > O Projeto Fênix (The Phoenix Project).
+
+   > Manual de DevOps (The DevOps Handbook).
