@@ -1,9 +1,9 @@
 # Guia-Cloud
 Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Cloud Computing, ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais!
 
-A criação desde material foi baseado na ideia do [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
-
 ## ⚠️ Aviso importante
+
+A criação desde material foi baseado na ideia do [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
 
 Conteúdo em Construção!
 Se você tem algum material que possa agregar, compartilhe conosco!
